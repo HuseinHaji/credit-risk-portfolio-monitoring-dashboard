@@ -1,0 +1,6 @@
+rating_code,rating_label,risk_weight
+AAA,Low Risk,1
+AA,Good,2
+A,Medium,3
+BBB,Watchlist,5
+BB,High Risk,8

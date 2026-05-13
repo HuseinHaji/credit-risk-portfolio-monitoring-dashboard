@@ -1,0 +1,41 @@
+customer_id,first_rating,last_rating,exposure_change
+CUST001,Medium,Medium,841677.82
+CUST002,Low Risk,Low Risk,1155700.2
+CUST003,Watchlist,Watchlist,956080.89
+CUST004,Medium,Medium,340362.03
+CUST005,High Risk,High Risk,728333.99
+CUST006,Medium,Medium,842366.98
+CUST007,Medium,Medium,520071.91
+CUST008,Medium,Medium,814975.69
+CUST009,Good,Good,169205.12
+CUST010,Watchlist,Watchlist,1375006.75
+CUST011,Medium,Medium,495120.75
+CUST012,Medium,Medium,260752.46
+CUST013,High Risk,High Risk,837496.89
+CUST014,Medium,Medium,467417.42
+CUST015,Low Risk,Low Risk,644087.25
+CUST016,Medium,Medium,265425.73
+CUST017,Watchlist,Watchlist,976772.29
+CUST018,Watchlist,Watchlist,730884.46
+CUST019,Good,Good,539085.34
+CUST020,Low Risk,Low Risk,931404.84
+CUST021,Low Risk,Low Risk,1331391.8
+CUST022,Watchlist,Watchlist,1047552.28
+CUST023,Medium,Medium,429326.82
+CUST024,Low Risk,Low Risk,218588.42
+CUST025,Medium,Medium,1067493.85
+CUST026,Medium,Medium,474551.97
+CUST027,Medium,Medium,1208166.98
+CUST028,Medium,Medium,271346.61
+CUST029,Medium,Medium,1289766.27
+CUST030,Low Risk,Low Risk,392378.6
+CUST031,Good,Good,361055.25
+CUST032,Watchlist,Watchlist,629652.1
+CUST033,Medium,Medium,820958.13
+CUST034,Low Risk,Low Risk,383001.11
+CUST035,Watchlist,Watchlist,485950.21
+CUST036,Medium,Medium,386592.09
+CUST037,Medium,Medium,759637.46
+CUST038,Good,Good,503326.53
+CUST039,Good,Good,1478850.15
+CUST040,High Risk,High Risk,283724.33
