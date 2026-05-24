@@ -1,0 +1,5 @@
+scenario_name,reporting_month,stressed_exposure,stressed_pd_proxy,stressed_loss_proxy,incremental_loss_proxy,high_risk_exposure_share,affected_customers,scenario_commentary
+Baseline,2025-06-01,164142463.88,0.0528,4078804.82,0.0,0.4775,31,Current portfolio conditions without additional stress.
+Mild Downturn,2025-06-01,169066737.8,0.066,5776607.33,1697802.51,0.4775,39,Moderate deterioration in payment behavior and recoveries.
+Sector Stress,2025-06-01,173991011.71,0.0818,7907742.06,3828937.24,0.4775,49,Targeted stress affecting cyclical industries and weak ratings.
+Severe Downturn,2025-06-01,180556710.27,0.1109,12719752.83,8640948.01,0.4775,50,Broad macroeconomic stress with higher default and loss proxies.

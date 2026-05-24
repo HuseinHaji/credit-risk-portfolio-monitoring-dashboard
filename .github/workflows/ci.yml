@@ -14,19 +14,20 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: "3.10"
       - name: Install dependencies
         run: |
-          python -m venv .venv
-          source .venv/bin/activate
-          pip install --upgrade pip
-          pip install -r requirements.txt || true
-          pip install -r requirements-dev.txt || true
-      - name: Lint & format check
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install -r requirements-dev.txt
+      - name: Run pipeline smoke test
         run: |
-          source .venv/bin/activate
-          pre-commit run --all-files || true
+          python src/generate_synthetic_data.py
+          python src/validate_data.py
+          python src/transform_data.py
+          python src/calculate_risk_kpis.py
+          python src/generate_watchlist.py
+          python src/stress_testing.py
+          python src/export_powerbi.py
       - name: Run tests
-        run: |
-          source .venv/bin/activate
-          pytest -q || true
+        run: pytest -q

@@ -1,0 +1,5 @@
+scenario_id,scenario_name,pd_shock,lgd_shock,exposure_shock,description
+S1,Baseline,1.0,1.0,1.0,Current portfolio conditions without additional stress.
+S2,Mild Downturn,1.25,1.1,1.03,Moderate deterioration in payment behavior and recoveries.
+S3,Sector Stress,1.55,1.18,1.06,Targeted stress affecting cyclical industries and weak ratings.
+S4,Severe Downturn,2.1,1.35,1.1,Broad macroeconomic stress with higher default and loss proxies.

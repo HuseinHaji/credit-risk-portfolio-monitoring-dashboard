@@ -1,0 +1,65 @@
+customer_id,customer_name,country,industry,current_exposure,overdue_amount,days_past_due,risk_rating,rating_movement,probability_of_default_proxy,expected_loss_proxy,watchlist_reason,severity,recommended_action
+CUST0045,Portfolio Customer 0045,France,Wholesale,5270090.35,592257.2,41,CCC,Stable,0.1895,449406.95,overdue ratio above threshold; weak risk rating; high expected loss proxy; large exposure concentration,Critical,Place on critical watchlist
+CUST0032,Portfolio Customer 0032,Switzerland,Automotive Suppliers,5023832.59,190704.62,0,CCC,Stable,0.1795,405800.08,weak risk rating; high expected loss proxy; large exposure concentration,Critical,Place on critical watchlist
+CUST0055,Portfolio Customer 0055,France,Energy,5064615.71,214146.35,41,B,Stable,0.114,259814.79,weak risk rating; high expected loss proxy; large exposure concentration,Critical,Place on critical watchlist
+CUST0056,Portfolio Customer 0056,Switzerland,Wholesale,4238723.7,263122.83,0,B,Stable,0.0908,173194.25,weak risk rating; high expected loss proxy; large exposure concentration,Critical,Place on critical watchlist
+CUST0018,Portfolio Customer 0018,Austria,Automotive Suppliers,1727922.82,91221.78,26,CCC,Stable,0.221,171841.92,high exposure utilization; weak risk rating; high expected loss proxy,Critical,Place on critical watchlist
+CUST0086,Portfolio Customer 0086,Sweden,Technology,3576811.43,150262.79,0,B,Stable,0.105,169004.34,weak risk rating; high expected loss proxy,Critical,Place on critical watchlist
+CUST0041,Portfolio Customer 0041,Switzerland,Automotive Suppliers,2066660.28,123243.09,0,CCC,Stable,0.169,157169.51,high exposure utilization; weak risk rating; high expected loss proxy,Critical,Place on critical watchlist
+CUST0013,Portfolio Customer 0013,Poland,Food & Beverage,1495870.49,52305.46,0,CCC,Stable,0.2237,150581.8,weak risk rating; high expected loss proxy,Critical,Place on critical watchlist
+CUST0010,Portfolio Customer 0010,Italy,Logistics,1766916.9,178520.04,9,CCC,Stable,0.1844,146618.76,high exposure utilization; weak risk rating; high expected loss proxy,Critical,Place on critical watchlist
+CUST0046,Portfolio Customer 0046,Switzerland,Food & Beverage,2338301.61,310538.42,0,B,Stable,0.086,90492.27,overdue ratio above threshold; weak risk rating; high expected loss proxy,Critical,Place on critical watchlist
+CUST0001,Portfolio Customer 0001,Germany,Automotive Suppliers,1033611.96,49468.94,14,CCC,Stable,0.1874,87164.5,weak risk rating; high expected loss proxy,Critical,Place on critical watchlist
+CUST0040,Portfolio Customer 0040,Germany,Food & Beverage,1095672.53,135555.07,38,CCC,Stable,0.1765,87023.79,overdue ratio above threshold; weak risk rating; high expected loss proxy,Critical,Place on critical watchlist
+CUST0066,Portfolio Customer 0066,Germany,Wholesale,1058054.08,96243.32,21,CCC,Stable,0.1727,82226.67,weak risk rating; high expected loss proxy,Critical,Place on critical watchlist
+CUST0028,Portfolio Customer 0028,France,Logistics,1597997.84,151743.91,20,B,Stable,0.1138,81833.47,weak risk rating; high expected loss proxy,Critical,Place on critical watchlist
+CUST0109,Portfolio Customer 0109,Italy,Wholesale,1592868.54,14765.37,41,B,Downgrade,0.1069,76624.94,weak risk rating; rating downgrade; high expected loss proxy,Critical,Place on critical watchlist
+CUST0027,Portfolio Customer 0027,Netherlands,Wholesale,742979.96,97848.97,3,CCC,Stable,0.2158,72150.78,overdue ratio above threshold; weak risk rating; high expected loss proxy,Critical,Place on critical watchlist
+CUST0012,Portfolio Customer 0012,Netherlands,Automotive Suppliers,616457.59,35841.75,0,CCC,Stable,0.1841,51070.43,weak risk rating; high expected loss proxy,Critical,Place on critical watchlist
+CUST0036,Portfolio Customer 0036,Poland,Manufacturing,1210675.38,31163.24,13,B,Downgrade,0.0869,47343.46,high exposure utilization; weak risk rating; rating downgrade,Critical,Place on critical watchlist
+CUST0100,Portfolio Customer 0100,Italy,Chemicals,883302.84,99118.1,33,B,Downgrade,0.1109,44081.23,weak risk rating; rating downgrade,Critical,Place on critical watchlist
+CUST0008,Portfolio Customer 0008,Spain,Automotive Suppliers,479102.47,59290.45,0,CCC,Stable,0.1832,39497.21,overdue ratio above threshold; weak risk rating,Critical,Place on critical watchlist
+CUST0098,Portfolio Customer 0098,Germany,Energy,368435.16,9446.95,10,CCC,Stable,0.2239,37121.68,weak risk rating,Critical,Place on critical watchlist
+CUST0039,Portfolio Customer 0039,Netherlands,Construction,809885.65,50364.08,34,B,Stable,0.0867,31597.69,weak risk rating,Critical,Place on critical watchlist
+CUST0033,Portfolio Customer 0033,Italy,Chemicals,736905.5,75402.57,0,B,Downgrade,0.0809,26827.04,weak risk rating; rating downgrade,Critical,Place on critical watchlist
+CUST0048,Portfolio Customer 0048,Germany,Retail,202834.99,5600.21,2,CCC,Stable,0.2192,20007.64,weak risk rating,Critical,Place on critical watchlist
+CUST0104,Portfolio Customer 0104,Belgium,Wholesale,211316.71,25076.41,9,CCC,Stable,0.196,18638.13,overdue ratio above threshold; weak risk rating,Critical,Place on critical watchlist
+CUST0108,Portfolio Customer 0108,France,Energy,183049.98,21636.72,55,CCC,Stable,0.1966,16194.43,overdue ratio above threshold; weak risk rating,Critical,Place on critical watchlist
+CUST0105,Portfolio Customer 0105,Netherlands,Energy,319296.05,10845.21,0,B,Stable,0.1001,14382.69,weak risk rating,Critical,Place on critical watchlist
+CUST0047,Portfolio Customer 0047,Poland,Construction,197330.47,2239.08,0,CCC,Stable,0.1531,13595.08,weak risk rating,Critical,Place on critical watchlist
+CUST0037,Portfolio Customer 0037,Austria,Technology,118318.64,11208.42,42,CCC,Stable,0.1863,9919.24,weak risk rating,Critical,Place on critical watchlist
+CUST0089,Portfolio Customer 0089,Switzerland,Automotive Suppliers,229844.29,8256.29,2,B,Stable,0.0858,8874.29,weak risk rating,Critical,Place on critical watchlist
+CUST0117,Portfolio Customer 0117,Poland,Manufacturing,5307418.56,85033.47,0,BB,Stable,0.0414,98877.21,weak risk rating; high expected loss proxy; large exposure concentration,High,Request updated financials
+CUST0095,Portfolio Customer 0095,Germany,Manufacturing,3772759.64,354997.8,50,BB,Downgrade,0.0467,79284.54,weak risk rating; rating downgrade; high expected loss proxy; large exposure concentration,High,Request updated financials
+CUST0085,Portfolio Customer 0085,Spain,Construction,4458998.08,404475.47,0,BB,Stable,0.0394,79058.04,weak risk rating; high expected loss proxy; large exposure concentration,High,Request updated financials
+CUST0052,Portfolio Customer 0052,Sweden,Retail,3643445.54,212455.61,25,BB,Stable,0.0398,65254.11,weak risk rating; high expected loss proxy,High,Request updated financials
+CUST0044,Portfolio Customer 0044,Germany,Wholesale,3211298.32,283156.5,0,BB,Stable,0.0416,60115.5,weak risk rating; high expected loss proxy,High,Request updated financials
+CUST0057,Portfolio Customer 0057,France,Manufacturing,2439266.4,134638.5,0,BB,Stable,0.0458,50273.28,weak risk rating; high expected loss proxy,High,Request updated financials
+CUST0094,Portfolio Customer 0094,Spain,Chemicals,2211286.8,128581.3,6,BB,Stable,0.046,45773.64,weak risk rating,High,Request updated financials
+CUST0120,Portfolio Customer 0120,Switzerland,Wholesale,1526851.01,90532.64,22,BB,Downgrade,0.0545,37446.02,weak risk rating; rating downgrade,High,Request updated financials
+CUST0107,Portfolio Customer 0107,Poland,Chemicals,1556529.17,112922.06,0,BB,Stable,0.0515,36072.56,weak risk rating,High,Request updated financials
+CUST0071,Portfolio Customer 0071,Sweden,Construction,1195899.87,78191.3,0,BB,Stable,0.0537,28898.92,weak risk rating,High,Request updated financials
+CUST0016,Portfolio Customer 0016,Germany,Food & Beverage,1216908.51,13655.35,14,BB,Stable,0.0438,23985.27,weak risk rating,High,Request updated financials
+CUST0088,Portfolio Customer 0088,Belgium,Logistics,370986.5,39428.07,16,BB,Stable,0.0485,8096.78,overdue ratio above threshold; weak risk rating,High,Request updated financials
+CUST0021,Portfolio Customer 0021,Sweden,Energy,257520.48,11398.27,0,BB,Stable,0.0388,4496.31,weak risk rating,High,Request updated financials
+CUST0011,Portfolio Customer 0011,Italy,Technology,249762.71,14139.18,23,BB,Upgrade,0.0383,4304.66,weak risk rating,High,Request updated financials
+CUST0005,Portfolio Customer 0005,Belgium,Manufacturing,228349.66,16381.06,19,BB,Stable,0.0409,4202.78,weak risk rating,High,Request updated financials
+CUST0038,Portfolio Customer 0038,Austria,Energy,134377.25,8640.04,26,BB,Stable,0.056,3386.31,weak risk rating,High,Request updated financials
+CUST0090,Portfolio Customer 0090,Netherlands,Logistics,123873.92,1764.28,27,BB,Stable,0.0538,2998.99,weak risk rating,High,Request updated financials
+CUST0051,Portfolio Customer 0051,Belgium,Energy,108671.25,9431.57,20,BB,Downgrade,0.0542,2650.49,weak risk rating; rating downgrade,High,Request updated financials
+CUST0075,Portfolio Customer 0075,Netherlands,Wholesale,64397.73,774.75,0,BB,Downgrade,0.0544,1576.46,weak risk rating; rating downgrade,High,Request updated financials
+CUST0059,Portfolio Customer 0059,Netherlands,Wholesale,45807.19,498.64,24,BB,Stable,0.0404,832.77,weak risk rating,High,Request updated financials
+CUST0006,Portfolio Customer 0006,Belgium,Technology,3668744.31,57840.09,15,BBB,Stable,0.0208,34339.45,monthly monitoring trigger,Medium,Monitor monthly
+CUST0007,Portfolio Customer 0007,Italy,Automotive Suppliers,4669595.13,244539.99,1,BBB,Upgrade,0.0162,34041.35,large exposure concentration,Medium,Monitor monthly
+CUST0092,Portfolio Customer 0092,Poland,Energy,4401007.65,70416.41,7,BBB,Stable,0.0156,30895.07,large exposure concentration,Medium,Monitor monthly
+CUST0004,Portfolio Customer 0004,Netherlands,Technology,6533316.89,155311.2,0,AA,Stable,0.0047,13817.97,large exposure concentration,Medium,Monitor monthly
+CUST0049,Portfolio Customer 0049,Sweden,Technology,6344835.83,101882.0,3,AA,Stable,0.0047,13419.33,large exposure concentration,Medium,Monitor monthly
+CUST0096,Portfolio Customer 0096,Switzerland,Wholesale,1694442.6,35675.75,0,BBB,Downgrade,0.0172,13114.99,rating downgrade,Medium,Monitor monthly
+CUST0113,Portfolio Customer 0113,Netherlands,Chemicals,1370419.42,69647.79,0,BBB,Downgrade,0.0193,11902.09,rating downgrade,Medium,Monitor monthly
+CUST0114,Portfolio Customer 0114,Germany,Construction,893028.12,41907.12,0,BBB,Downgrade,0.0209,8398.93,rating downgrade,Medium,Monitor monthly
+CUST0029,Portfolio Customer 0029,France,Logistics,5065546.98,59030.41,36,AAA,Stable,0.0024,5470.79,large exposure concentration,Medium,Monitor monthly
+CUST0060,Portfolio Customer 0060,Switzerland,Wholesale,889649.06,28882.41,11,A,Downgrade,0.0099,3963.39,rating downgrade,Medium,Monitor monthly
+CUST0003,Portfolio Customer 0003,Italy,Retail,65619.79,2076.83,0,BBB,Downgrade,0.016,472.46,rating downgrade,Medium,Monitor monthly
+CUST0076,Portfolio Customer 0076,Spain,Energy,122254.57,3682.56,31,A,Downgrade,0.0083,456.62,rating downgrade,Medium,Monitor monthly
+CUST0119,Portfolio Customer 0119,Poland,Construction,113339.98,3039.01,2,AA,Downgrade,0.0048,244.81,rating downgrade,Medium,Monitor monthly
+CUST0078,Portfolio Customer 0078,Austria,Wholesale,51689.36,1097.78,0,A,Downgrade,0.0089,207.02,rating downgrade,Medium,Monitor monthly

@@ -1,0 +1,121 @@
+customer_id,customer_name,country,region,industry,company_size,onboarding_date,active_flag
+CUST0001,Portfolio Customer 0001,Germany,DACH,Automotive Suppliers,Mid-Market,2022-06-14,1
+CUST0002,Portfolio Customer 0002,Spain,Southern Europe,Energy,Small,2021-01-10,1
+CUST0003,Portfolio Customer 0003,Italy,Southern Europe,Retail,Small,2022-07-09,1
+CUST0004,Portfolio Customer 0004,Netherlands,Western Europe,Technology,Enterprise,2022-06-30,1
+CUST0005,Portfolio Customer 0005,Belgium,Western Europe,Manufacturing,Small,2020-07-20,1
+CUST0006,Portfolio Customer 0006,Belgium,Western Europe,Technology,Large,2019-08-05,1
+CUST0007,Portfolio Customer 0007,Italy,Southern Europe,Automotive Suppliers,Enterprise,2020-01-15,1
+CUST0008,Portfolio Customer 0008,Spain,Southern Europe,Automotive Suppliers,Small,2020-02-04,0
+CUST0009,Portfolio Customer 0009,Belgium,Western Europe,Energy,Large,2018-11-21,1
+CUST0010,Portfolio Customer 0010,Italy,Southern Europe,Logistics,Mid-Market,2023-03-17,1
+CUST0011,Portfolio Customer 0011,Italy,Southern Europe,Technology,Small,2019-02-02,1
+CUST0012,Portfolio Customer 0012,Netherlands,Western Europe,Automotive Suppliers,Mid-Market,2023-05-29,1
+CUST0013,Portfolio Customer 0013,Poland,Central Europe,Food & Beverage,Mid-Market,2022-01-10,1
+CUST0014,Portfolio Customer 0014,Spain,Southern Europe,Construction,Mid-Market,2023-03-01,1
+CUST0015,Portfolio Customer 0015,Poland,Central Europe,Retail,Small,2018-10-21,1
+CUST0016,Portfolio Customer 0016,Germany,DACH,Food & Beverage,Mid-Market,2020-09-17,1
+CUST0017,Portfolio Customer 0017,Belgium,Western Europe,Manufacturing,Mid-Market,2020-08-21,1
+CUST0018,Portfolio Customer 0018,Austria,DACH,Automotive Suppliers,Mid-Market,2021-10-06,1
+CUST0019,Portfolio Customer 0019,Germany,DACH,Chemicals,Mid-Market,2022-05-26,1
+CUST0020,Portfolio Customer 0020,Belgium,Western Europe,Manufacturing,Mid-Market,2021-06-19,1
+CUST0021,Portfolio Customer 0021,Sweden,Nordics,Energy,Mid-Market,2019-03-27,1
+CUST0022,Portfolio Customer 0022,Spain,Southern Europe,Construction,Small,2022-12-02,1
+CUST0023,Portfolio Customer 0023,Netherlands,Western Europe,Chemicals,Mid-Market,2021-10-22,1
+CUST0024,Portfolio Customer 0024,Italy,Southern Europe,Retail,Mid-Market,2020-05-27,1
+CUST0025,Portfolio Customer 0025,France,Western Europe,Food & Beverage,Small,2018-02-17,1
+CUST0026,Portfolio Customer 0026,Italy,Southern Europe,Chemicals,Small,2023-03-07,1
+CUST0027,Portfolio Customer 0027,Netherlands,Western Europe,Wholesale,Mid-Market,2022-01-02,1
+CUST0028,Portfolio Customer 0028,France,Western Europe,Logistics,Mid-Market,2021-06-29,1
+CUST0029,Portfolio Customer 0029,France,Western Europe,Logistics,Enterprise,2018-09-05,1
+CUST0030,Portfolio Customer 0030,Sweden,Nordics,Energy,Mid-Market,2022-05-24,1
+CUST0031,Portfolio Customer 0031,Switzerland,DACH,Food & Beverage,Mid-Market,2022-02-14,1
+CUST0032,Portfolio Customer 0032,Switzerland,DACH,Automotive Suppliers,Enterprise,2018-09-25,1
+CUST0033,Portfolio Customer 0033,Italy,Southern Europe,Chemicals,Mid-Market,2019-10-05,1
+CUST0034,Portfolio Customer 0034,Austria,DACH,Food & Beverage,Large,2020-10-31,1
+CUST0035,Portfolio Customer 0035,France,Western Europe,Manufacturing,Mid-Market,2021-08-10,1
+CUST0036,Portfolio Customer 0036,Poland,Central Europe,Manufacturing,Mid-Market,2022-07-11,1
+CUST0037,Portfolio Customer 0037,Austria,DACH,Technology,Small,2019-11-24,1
+CUST0038,Portfolio Customer 0038,Austria,DACH,Energy,Small,2019-09-22,1
+CUST0039,Portfolio Customer 0039,Netherlands,Western Europe,Construction,Mid-Market,2019-12-30,1
+CUST0040,Portfolio Customer 0040,Germany,DACH,Food & Beverage,Mid-Market,2020-09-07,1
+CUST0041,Portfolio Customer 0041,Switzerland,DACH,Automotive Suppliers,Mid-Market,2020-10-18,1
+CUST0042,Portfolio Customer 0042,Sweden,Nordics,Construction,Mid-Market,2022-08-23,1
+CUST0043,Portfolio Customer 0043,Belgium,Western Europe,Construction,Mid-Market,2020-12-29,1
+CUST0044,Portfolio Customer 0044,Germany,DACH,Wholesale,Large,2021-02-13,1
+CUST0045,Portfolio Customer 0045,France,Western Europe,Wholesale,Large,2018-08-17,1
+CUST0046,Portfolio Customer 0046,Switzerland,DACH,Food & Beverage,Large,2023-05-26,1
+CUST0047,Portfolio Customer 0047,Poland,Central Europe,Construction,Small,2023-04-08,1
+CUST0048,Portfolio Customer 0048,Germany,DACH,Retail,Mid-Market,2019-10-13,1
+CUST0049,Portfolio Customer 0049,Sweden,Nordics,Technology,Enterprise,2019-10-28,1
+CUST0050,Portfolio Customer 0050,Switzerland,DACH,Energy,Mid-Market,2023-09-13,1
+CUST0051,Portfolio Customer 0051,Belgium,Western Europe,Energy,Mid-Market,2018-04-05,1
+CUST0052,Portfolio Customer 0052,Sweden,Nordics,Retail,Large,2022-11-11,1
+CUST0053,Portfolio Customer 0053,Austria,DACH,Manufacturing,Mid-Market,2020-12-25,1
+CUST0054,Portfolio Customer 0054,Italy,Southern Europe,Manufacturing,Mid-Market,2023-02-05,1
+CUST0055,Portfolio Customer 0055,France,Western Europe,Energy,Enterprise,2019-07-06,1
+CUST0056,Portfolio Customer 0056,Switzerland,DACH,Wholesale,Large,2023-02-17,1
+CUST0057,Portfolio Customer 0057,France,Western Europe,Manufacturing,Large,2021-06-12,1
+CUST0058,Portfolio Customer 0058,Austria,DACH,Energy,Large,2019-11-04,1
+CUST0059,Portfolio Customer 0059,Netherlands,Western Europe,Wholesale,Small,2018-10-30,1
+CUST0060,Portfolio Customer 0060,Switzerland,DACH,Wholesale,Large,2023-07-29,1
+CUST0061,Portfolio Customer 0061,Sweden,Nordics,Automotive Suppliers,Mid-Market,2021-12-28,1
+CUST0062,Portfolio Customer 0062,Austria,DACH,Food & Beverage,Large,2018-06-27,1
+CUST0063,Portfolio Customer 0063,Netherlands,Western Europe,Manufacturing,Enterprise,2018-09-17,1
+CUST0064,Portfolio Customer 0064,France,Western Europe,Technology,Mid-Market,2020-12-03,1
+CUST0065,Portfolio Customer 0065,Belgium,Western Europe,Automotive Suppliers,Enterprise,2019-08-25,1
+CUST0066,Portfolio Customer 0066,Germany,DACH,Wholesale,Mid-Market,2022-11-01,1
+CUST0067,Portfolio Customer 0067,Italy,Southern Europe,Wholesale,Enterprise,2020-05-30,1
+CUST0068,Portfolio Customer 0068,Belgium,Western Europe,Automotive Suppliers,Large,2020-06-26,1
+CUST0069,Portfolio Customer 0069,Spain,Southern Europe,Construction,Small,2018-02-07,1
+CUST0070,Portfolio Customer 0070,Spain,Southern Europe,Chemicals,Small,2019-12-03,1
+CUST0071,Portfolio Customer 0071,Sweden,Nordics,Construction,Mid-Market,2022-12-28,1
+CUST0072,Portfolio Customer 0072,Netherlands,Western Europe,Technology,Mid-Market,2018-08-27,1
+CUST0073,Portfolio Customer 0073,Switzerland,DACH,Construction,Small,2020-08-11,1
+CUST0074,Portfolio Customer 0074,Switzerland,DACH,Wholesale,Large,2023-07-08,1
+CUST0075,Portfolio Customer 0075,Netherlands,Western Europe,Wholesale,Small,2021-06-02,1
+CUST0076,Portfolio Customer 0076,Spain,Southern Europe,Energy,Small,2023-04-07,1
+CUST0077,Portfolio Customer 0077,Austria,DACH,Automotive Suppliers,Small,2019-08-21,0
+CUST0078,Portfolio Customer 0078,Austria,DACH,Wholesale,Small,2019-02-14,0
+CUST0079,Portfolio Customer 0079,Netherlands,Western Europe,Retail,Large,2021-05-26,1
+CUST0080,Portfolio Customer 0080,France,Western Europe,Retail,Mid-Market,2022-03-26,1
+CUST0081,Portfolio Customer 0081,Belgium,Western Europe,Retail,Small,2018-04-02,1
+CUST0082,Portfolio Customer 0082,Switzerland,DACH,Automotive Suppliers,Mid-Market,2023-06-16,0
+CUST0083,Portfolio Customer 0083,Germany,DACH,Retail,Mid-Market,2020-02-24,1
+CUST0084,Portfolio Customer 0084,Austria,DACH,Energy,Small,2020-04-28,1
+CUST0085,Portfolio Customer 0085,Spain,Southern Europe,Construction,Enterprise,2022-11-07,1
+CUST0086,Portfolio Customer 0086,Sweden,Nordics,Technology,Large,2021-08-11,1
+CUST0087,Portfolio Customer 0087,Italy,Southern Europe,Logistics,Mid-Market,2018-10-10,1
+CUST0088,Portfolio Customer 0088,Belgium,Western Europe,Logistics,Mid-Market,2022-07-05,1
+CUST0089,Portfolio Customer 0089,Switzerland,DACH,Automotive Suppliers,Small,2019-07-14,1
+CUST0090,Portfolio Customer 0090,Netherlands,Western Europe,Logistics,Small,2019-12-12,1
+CUST0091,Portfolio Customer 0091,Italy,Southern Europe,Wholesale,Mid-Market,2019-11-19,1
+CUST0092,Portfolio Customer 0092,Poland,Central Europe,Energy,Enterprise,2021-11-09,1
+CUST0093,Portfolio Customer 0093,Italy,Southern Europe,Energy,Mid-Market,2019-11-21,1
+CUST0094,Portfolio Customer 0094,Spain,Southern Europe,Chemicals,Large,2021-03-07,1
+CUST0095,Portfolio Customer 0095,Germany,DACH,Manufacturing,Large,2019-08-29,1
+CUST0096,Portfolio Customer 0096,Switzerland,DACH,Wholesale,Large,2023-04-14,1
+CUST0097,Portfolio Customer 0097,Poland,Central Europe,Chemicals,Large,2018-07-19,1
+CUST0098,Portfolio Customer 0098,Germany,DACH,Energy,Small,2023-07-09,1
+CUST0099,Portfolio Customer 0099,Netherlands,Western Europe,Energy,Large,2021-05-31,1
+CUST0100,Portfolio Customer 0100,Italy,Southern Europe,Chemicals,Mid-Market,2022-02-24,1
+CUST0101,Portfolio Customer 0101,Belgium,Western Europe,Wholesale,Small,2021-07-17,1
+CUST0102,Portfolio Customer 0102,Belgium,Western Europe,Chemicals,Mid-Market,2021-11-27,1
+CUST0103,Portfolio Customer 0103,Sweden,Nordics,Construction,Mid-Market,2022-08-06,1
+CUST0104,Portfolio Customer 0104,Belgium,Western Europe,Wholesale,Small,2022-07-09,1
+CUST0105,Portfolio Customer 0105,Netherlands,Western Europe,Energy,Mid-Market,2021-10-13,1
+CUST0106,Portfolio Customer 0106,Italy,Southern Europe,Retail,Mid-Market,2022-03-31,1
+CUST0107,Portfolio Customer 0107,Poland,Central Europe,Chemicals,Mid-Market,2019-07-23,1
+CUST0108,Portfolio Customer 0108,France,Western Europe,Energy,Small,2018-07-01,1
+CUST0109,Portfolio Customer 0109,Italy,Southern Europe,Wholesale,Large,2020-03-15,1
+CUST0110,Portfolio Customer 0110,Belgium,Western Europe,Automotive Suppliers,Large,2021-07-10,1
+CUST0111,Portfolio Customer 0111,Poland,Central Europe,Retail,Large,2023-09-03,1
+CUST0112,Portfolio Customer 0112,Sweden,Nordics,Technology,Large,2023-01-18,1
+CUST0113,Portfolio Customer 0113,Netherlands,Western Europe,Chemicals,Large,2021-05-20,1
+CUST0114,Portfolio Customer 0114,Germany,DACH,Construction,Large,2020-06-24,1
+CUST0115,Portfolio Customer 0115,France,Western Europe,Chemicals,Mid-Market,2020-07-17,1
+CUST0116,Portfolio Customer 0116,Sweden,Nordics,Energy,Small,2020-03-31,1
+CUST0117,Portfolio Customer 0117,Poland,Central Europe,Manufacturing,Large,2019-08-20,1
+CUST0118,Portfolio Customer 0118,Austria,DACH,Technology,Mid-Market,2018-10-14,1
+CUST0119,Portfolio Customer 0119,Poland,Central Europe,Construction,Small,2023-02-27,1
+CUST0120,Portfolio Customer 0120,Switzerland,DACH,Wholesale,Large,2022-08-25,1
